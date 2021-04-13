@@ -1,0 +1,10 @@
+#Produção de Trigo
+#Em milões de toneladas
+
+#Ano	Produção
+2010	5.9
+2007	4.1
+2012	4.3
+2011	5.8
+2009	5.0
+2008	5.9

@@ -1,0 +1,13 @@
+# Primeira coluna - dias da semana
+# 1 = segunda-feira
+# 2 = terça-feira
+# 3 = quarta-feira
+# 4 = quinta-feira
+# 5 = sexata-feira
+# Segunda coluna - número de clientes atendidos
+
+1	23
+2	17
+3	42
+4	26
+5	75

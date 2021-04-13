@@ -1,0 +1,5 @@
+#arq1.txt - Compras
+
+Computador	1100
+Impressora	250
+Mesa	50

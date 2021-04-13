@@ -1,0 +1,7 @@
+#Produto 	Quant.
+
+Computador	2
+Impressora	3
+"Super Modem"	9
+"Mesa padrão"	5
+"Cadeira V6"	8

@@ -1,0 +1,13 @@
+#Vendas na semana
+
+#Dia	Ocorrência
+1	17	# Clientes no dia
+1	123	# Vendas efetuadas
+2	12	# Clientes no dia
+2	157	# Vendas efetuadas
+3	09	# Clientes no dia
+3	247	# Vendas efetuadas
+4	25	# Clientes no dia
+4	432	# Vendas efetuadas
+5	30	# Clientes no dia
+5	278	# Vendas efetuadas

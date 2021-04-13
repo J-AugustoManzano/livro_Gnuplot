@@ -1,0 +1,5 @@
+#arq2.txt - Vendas
+
+Computador	1500
+Impressora	300
+Mesa	80

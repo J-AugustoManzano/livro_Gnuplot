@@ -1,0 +1,5 @@
+#arq1.txt - Lucros
+
+Computador	400
+Impressora	50
+Mesa	30
