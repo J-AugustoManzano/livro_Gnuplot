@@ -1,5 +1,5 @@
 # Gnuplot 5 - Introdução e Aplicação
-# Gráficos intermediados por computador
+Gráficos intermediados por computador
 
 Livro disponível para venda em: https://clubedeautores.com.br/livro/gnuplot-5-introducao-e-aplicacao
 
